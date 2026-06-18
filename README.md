@@ -16,3 +16,13 @@ Presentes: Maria Eduarda, Mehiel Amorim, Alice Gouvea, Guilherme Andrade, Raquel
 **Paleta de Cores:** #FFF9F4, #CDD56E, #FFBD68  <br>
 **Elementos Gráficos de Apoio:** Folhas, maçãs, trigo, população, globo terrestre. <br>
 **Palavras-chave:** População, alimentação, inovação, sustentabilidade. <br>
+
+---
+### ATA  2 - Data: 18/06 
+
+Ausentes: Alice Gouvea.
+
+- ### Figma - Identidade visual
+Adicionar referências e inspirações no Figma. <br>
+Produção da interface. <br>
+Produção do logotipo.
