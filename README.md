@@ -3,7 +3,7 @@
 
 ### ATA 1 - Data: 11/06 
 
-Presentes: Maria Eduarda, Mehiel Amorim, Alice Gouvea, Guilherme, Raquel Durães, Julio Koch, Isabella.
+Presentes: Maria Eduarda, Mehiel Amorim, Alice Gouvea, Guilherme Andrade, Raquel Durães, Julio Koch, Isabella Machado.
 
 - ### Divisão de cargos
 **Coordenador:** Maria Eduarda <br>
