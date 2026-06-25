@@ -39,7 +39,6 @@ Ausentes: Guilherme (JIFC), Alice Gouvea.
 Pesquisa e elaboração dos textos informativos.
 
 - ### Figma - Identidade visual
-Adicionar referências e inspirações no Figma. <br>
+Conclusão das referências e inspirações no Figma. <br>
 Continuação da produção da interface inicial. <br>
 Continuação da produção do logotipo. <br> <br>
-
