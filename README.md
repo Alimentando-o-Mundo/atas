@@ -25,4 +25,21 @@ Ausentes: Alice Gouvea.
 - ### Figma - Identidade visual
 Adicionar referências e inspirações no Figma. <br>
 Produção da interface. <br>
-Produção do logotipo.
+Produção do logotipo. <br> <br>
+
+- ### Referencial Teórico
+Início da produção do documento de referencial teórico.
+
+---
+### ATA 3 - Data: 25/06
+
+Ausentes: Guilherme (JIFC), Alice Gouvea.
+
+- ### Pesquisas
+Pesquisa e elaboração dos textos informativos.
+
+- ### Figma - Identidade visual
+Adicionar referências e inspirações no Figma. <br>
+Continuação da produção da interface inicial. <br>
+Continuação da produção do logotipo. <br> <br>
+
