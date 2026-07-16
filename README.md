@@ -42,3 +42,34 @@ Pesquisa e elaboração dos textos informativos.
 Conclusão das referências e inspirações no Figma. <br>
 Continuação da produção da interface inicial. <br>
 Continuação da produção do logotipo. <br> <br>
+
+
+---
+### ATA 4 - Data: 02/07
+
+Ausentes : Maria(Viagem)
+
+- ### Figma
+ Produção do banner <br>
+ Produção da logo <br>
+ Inicio do site <br>
+
+- ### VsCode
+  Inicio do banner <br>
+  Implementar o HTML e CSS <br>
+
+
+---
+### ATA 5 - Data: 09/07
+
+Ausentes: Maria(Viagem), Raquel
+
+- ### Figma
+ Inicio da página “Quem somos nós” <br>
+ Termino do banner <br>
+
+- ### VsCode
+  Termino do header <br>
+  Ajeitar alguns erros <br>
+  Melhorar a visibilidade <br>
+
