@@ -9,8 +9,8 @@ Presentes: Maria Eduarda, Mehiel Amorim, Alice Gouvea, Guilherme Andrade, Raquel
 **Coordenador:** Maria Eduarda <br>
 **Secretário:** Guilherme <br>
 **Referencial teórico:** Julio e Raquel <br>
-**GitHub:** Maria Eduarda e Isabella <br>
-**FIGMA:** Guilherme e Mehiel <br>
+**GitHub:** Maria Eduarda e Guilherme <br>
+**FIGMA:** Isabella e Mehiel <br>
 **Front-end:** Guilherme <br> <br>
 - ### Identidade visual
 **Paleta de Cores:** #FFF9F4, #CDD56E, #FFBD68  <br>
