@@ -70,6 +70,6 @@ Ausentes: Maria(Viagem), Raquel
 
 - ### VsCode
   Termino do header <br>
-  Ajeitar alguns erros <br>
+  Corrigir alguns erros <br>
   Melhorar a visibilidade <br>
 
