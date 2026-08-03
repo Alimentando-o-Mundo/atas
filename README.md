@@ -6,16 +6,16 @@
 Presentes: Maria Eduarda, Mehiel Amorim, Alice Gouvea, Guilherme Andrade, Raquel Durães, Julio Koch, Isabella Machado.
 
 - ### Divisão de cargos
- **Coordenador:** Maria Eduarda <br>
- **Secretário:** Guilherme <br>
- **Referencial teórico:** Julio e Raquel <br>
- **GitHub:** Maria Eduarda e Guilherme <br>
- **FIGMA:** Isabella e Mehiel <br>
- **Front-end:** Guilherme <br> <br>
+  **Coordenador:** Maria Eduarda <br>
+  **Secretário:** Guilherme <br>
+  **Referencial teórico:** Julio e Raquel <br>
+  **GitHub:** Maria Eduarda e Guilherme <br>
+  **FIGMA:** Isabella e Mehiel <br>
+  **Front-end:** Guilherme <br> <br>
 - ### Identidade visual
- **Paleta de Cores:** #FFF9F4, #CDD56E, #FFBD68  <br>
- **Elementos Gráficos de Apoio:** Folhas, maçãs, trigo, população, globo terrestre. <br>
- **Palavras-chave:** População, alimentação, inovação, sustentabilidade. <br>
+  **Paleta de Cores:** #FFF9F4, #CDD56E, #FFBD68  <br>
+  **Elementos Gráficos de Apoio:** Folhas, maçãs, trigo, população, globo terrestre. <br>
+  **Palavras-chave:** População, alimentação, inovação, sustentabilidade. <br>
 
 ---
 ### ATA  2 - Data: 18/06 
@@ -50,9 +50,9 @@ Ausentes: Guilherme (JIFC), Alice Gouvea.
 Ausentes : Maria(Viagem).
 
 - ### Figma
-  Produção do banner <br>
-  Produção da logo <br>
-  Início do site <br>
+  Início da produção do banner <br>
+  Início da produção da logo <br>
+  Início da página inicial do site <br>
 
 - ### VsCode
   Início da produção do banner com HTML e CSS. <br> <br>
