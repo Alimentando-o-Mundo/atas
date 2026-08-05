@@ -75,11 +75,11 @@
 
 **Ausentes:** Maria (viagem), Julio, Alice (consulta médica).
 
-- ## Redes sociais
+- ### Redes sociais
   Criação do perfil no Instagram.
 
-- ## Figma
+- ### Figma
   Atualizações no banner e na página inicial.
 
-- ## VsCode
+- ### VsCode
   Atualizações no CSS.
