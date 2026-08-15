@@ -59,7 +59,7 @@
 ---
 ### ATA 5 - Data: 09/07
 
-**Ausentes:** Maria (Viagem), Raquel.
+**Ausentes:** Maria (Viagem), Julio, Raquel.
 
 - ### Figma
   Início da produção da página “Quem somos nós”. <br>
@@ -73,7 +73,7 @@
 ---
 ### ATA 6 - Data: 16/07
 
-**Ausentes:** Maria (viagem), Julio, Alice (consulta médica).
+**Ausentes:** Maria (viagem), Alice (consulta médica).
 
 - ### Redes sociais
   Criação do perfil no Instagram.
@@ -83,3 +83,33 @@
 
 - ### VsCode
   Atualizações no CSS.
+
+- ### Referencial Teórico
+  Continuação da produção do documento de referencial teórico.
+
+---
+### ATA 7 - Data: 06/08
+
+**Ausentes:** Alice (consulta médica).
+
+- ### GitHub
+  Criação da Organization "Alimentando-o-Mundo".
+
+- ### Figma
+  Continuação da prototipagem de telas.
+
+- ### VsCode
+  Atualizações no HTML e CSS.
+
+---
+### ATA 8 - Data: 13/08
+
+**Ausentes:** Alice (gripada), Julio.
+
+- ### Identidade visual
+  Término da produção do logotipo e atualizações na identidade visual <br>
+  **Paleta de cores:** #E9A145 (44%),  #FFE7B8, #CF6123 (76%) <br>
+  **Elementos Gráficos de Apoio:** Folhas, trigo, globo terrestre <br>
+  **Palavras-chave:** População, alimentação, inovação, sustentabilidade
+
+
