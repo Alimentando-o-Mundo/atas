@@ -112,10 +112,10 @@
   **Elementos Gráficos de Apoio:** Folhas, trigo, globo terrestre <br>
   **Palavras-chave:** População, alimentação, inovação, sustentabilidade
 
-  ---
-  ### ATA 9 - Data: 27/08
+---
+### ATA 9 - Data: 27/08
 
-  **Ausente:** Guilherme (Consulta médica).
+**Ausente:** Guilherme (Consulta médica).
 
 - ### Figma
     Finalização da prototipagem de telas.
