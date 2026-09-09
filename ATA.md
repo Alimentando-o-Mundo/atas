@@ -125,4 +125,12 @@
 
 - ### Reunião pré-conselho
 
+---
+### ATA 10 - Data: 09/09
+
+- ### Quiz
+  Início da produção do Quiz interativo.
+
+- ### VsCode
+  Continuação as páginas Inicial, Pecuária, Tecnologia e  Larga Escala.
 
