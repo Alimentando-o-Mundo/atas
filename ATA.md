@@ -132,5 +132,17 @@
   Início da produção do Quiz interativo.
 
 - ### VsCode
-  Continuação as páginas Inicial, Pecuária, Tecnologia e  Larga Escala.
+  Continuação as páginas Inicial, Pecuária, Tecnologia e Larga Escala.
+
+---
+### ATA 11 - Data: 10/09
+
+**Ausentes:** Maria (consulta médica), Raquel, Julio, Alice.
+
+- ### VsCode
+  Continuação da página Larga Escala.
+  Continuação da produção do Quiz interativo.
+
+- ### GitHub
+  Reorganização das páginas no GitHub.
 
