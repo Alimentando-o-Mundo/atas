@@ -125,4 +125,14 @@
 
 - ### Reunião pré-conselho
 
+---
+### ATA 10 - Data: 10/09
 
+**Ausentes:** Maria (Consulta médica), Raquel, Julio, Alice.
+
+- ### VsCode
+    Encaminhamento da página "Agricultua". <br>
+    Começo da produção do Quiz.
+
+- ### GitHub
+    Organização dos repositórios.
