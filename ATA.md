@@ -136,3 +136,10 @@
 
 - ### GitHub
     Organização dos repositórios.
+  
+---
+### ATA 11 - Data: 24/09
+
+**Ausentes:** Ninguém.
+
+ Reformulação geral da página "Tecnologia na Produção de Alimentos".
