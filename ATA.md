@@ -143,3 +143,13 @@
 **Ausentes:** Ninguém.
 
  Reformulação geral da página "Tecnologia na Produção de Alimentos".
+
+---
+### ATA 12 - Data 15/10 
+
+**Ausente:** Raquel Durães (problemas intestinais).
+
+Fotos na página “Sobre Nós” <br>
+Alterações na identidade visual; <br>
+Exclusão de páginas desnecessárias; <br>
+
