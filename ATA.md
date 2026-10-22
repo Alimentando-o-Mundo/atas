@@ -149,7 +149,13 @@
 
 **Ausente:** Raquel Durães (problemas intestinais).
 
-Fotos na página “Sobre Nós” <br>
-Alterações na identidade visual; <br>
-Exclusão de páginas desnecessárias; <br>
+---
+### ATA 13 - Data 22/10 
+
+**Ausente:** Raquel Durães (problemas intestinais), Alice e Julio..
+
+Atualização da página "Sobre Nós"; <br>
+Atualização na página "Quizz"; <br>
+Adição do Favicon; <br>
+Continuação da Pesquisa de Satisfação; <br>
 
