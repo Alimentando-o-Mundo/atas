@@ -159,3 +159,8 @@ Atualização na página "Quizz"; <br>
 Adição do Favicon; <br>
 Continuação da Pesquisa de Satisfação; <br>
 
+---
+### ATA 14 - Data 29/10
+
+Atualizações gerais.
+
