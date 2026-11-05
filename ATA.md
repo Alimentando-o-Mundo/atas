@@ -152,7 +152,7 @@
 ---
 ### ATA 13 - Data 22/10 
 
-**Ausente:** Raquel Durães (problemas intestinais), Alice e Julio..
+**Ausente:** Raquel Durães (problemas intestinais), Alice e Julio.
 
 Atualização da página "Sobre Nós"; <br>
 Atualização na página "Quizz"; <br>
@@ -164,3 +164,10 @@ Continuação da Pesquisa de Satisfação; <br>
 
 Atualizações gerais.
 
+---
+### ATA 15 - Data 05/11
+
+**Ausentes:** Raquel Durães (problemas intestinais).
+
+ Fotos para a página "Sobre Nós";
+ Atualizações página "Desafios";
