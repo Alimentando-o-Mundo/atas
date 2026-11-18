@@ -171,3 +171,11 @@ Atualizações gerais.
 
  Fotos para a página "Sobre Nós";
  Atualizações página "Desafios";
+
+---
+### ATA 16 - Data 12/10
+
+**Ausentes:**
+
+ Add ultimas fotos da página "Sobre Nós"; <br>
+ Finalização da responsividade.
